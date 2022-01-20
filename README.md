@@ -113,6 +113,4 @@ Finally, if you really want to hurt me, don't downvote I don't care about that. 
 即使我平时用 Windows 工作，Linux 也很重要。为什么？因为服务器是 Linux 系统，你最终在 Linux 系统上工作。
 人死了以后，你想让代码成为你的遗产吗？如果是那样，就花很多时间在代码上面吧，因为那是你的遗产。但是，如果你像我一样，更看重与家人、朋友和生活中其他人相处的时光，而不是写的代码，那就别对它太在意。
 我挣的钱还不错，对此心存感激，但还是需要省钱。
-————————————————
-版权声明：本文为CSDN博主「私房菜」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/shift_wwx/article/details/120388805
+
